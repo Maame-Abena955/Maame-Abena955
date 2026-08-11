@@ -1,5 +1,5 @@
   <a href="https://github.com/Maame-Abena955">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=Hello!%20I'm%20Maame%20Abena%20Nyamekye" alt="Hello! I&#39;m Maame Abena "</br<><p align="center">"Nyamekye" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=Hello!%20I'm%20Maame%20Abena%20Nyamekye" alt="Hello! I&#39;m" </br> "Maame Abena Nyamekye" />
   </a>
 </p>
 
