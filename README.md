@@ -1,10 +1,11 @@
+<p align="center">
   <a href="https://github.com/Maame-Abena955">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=Hello!%20I'm%20Maame%20Abena%20Nyamekye" alt="Hello! I&#39;m" </br> "Maame Abena Nyamekye" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Maame%20Abena" alt="Hello! I&#39;m Maame Abena" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Software%20%26%20Computer%20Engineering%20Student%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Arduino%20%7C%20Building%20Real-World%20Tech%20Projects" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Software%20%26%20Computer%20Engineering%20Student%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Arduino" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -71,19 +72,3 @@ Aspiring software and computer engineering student from Ghana, passionate about 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Maame-Abena955">Maame-Abena955</a></i></p>
-
-
-<!--
-**Maame-Abena955/Maame-Abena955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
