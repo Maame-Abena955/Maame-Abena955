@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Software%20%26%20Computer%20Engineering%20Student%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Arduino" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20%20Engineering%20Student%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Arduino" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
