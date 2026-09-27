@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Maame-Abena955">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Maame%20Abena" alt="Hello! I&#39;m Maame Abena" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Maame%20Abena" alt="Hello! I&#39;m Maame Abena Nyamekye" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Aspiring software and computer engineering student from Ghana, passionate about building practical tech solutions. I enjoy working with Python, React, FastAPI, Arduino, and Blender, and I’m currently focused on creating projects that solve real-world problems and improve my skills every day.
+Software engineering student from Ghana, passionate about building practical tech solutions. I enjoy working with Python, React, FastAPI, Arduino, and Blender, and I’m currently focused on creating projects that solve real-world problems and improve my skills every day.
 
 🔭 &nbsp;I'm currently working on **Currently building a Smart Bus Stop prototype while learning FastAPI, React, and embedded systems with Arduino.**  
 🌱 &nbsp;I'm currently learning **Full-stackDevelopment.**  
